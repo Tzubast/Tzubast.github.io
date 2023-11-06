@@ -1,3 +1,4 @@
+import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/Calc.vue'
 import 'font-awesome/css/font-awesome.css';
 
